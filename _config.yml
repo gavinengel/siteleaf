@@ -8,6 +8,9 @@ collections:
   things:
     title: Things
     output: true
+    asdf:
+    - asdffffff
+    - asdffasdf
   uploads:
     title: Uploads
     output: true
